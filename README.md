@@ -32,3 +32,10 @@ explain for java.util.Collections
 ## shuffle(List<?> list, Random rnd)
 
 - 同 `shuffle(List<?> list)` 增加了参数 `Random`
+
+
+## LICENSE
+
+### [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
+
+[![](LICENSE.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)
